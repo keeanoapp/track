@@ -4,7 +4,7 @@ import { AuthenticatedLayoutTwoColumns } from "../ui/layouts/authenticated/Authe
 export function HomePage() {
   return (
     <AuthenticatedLayoutTwoColumns>
-      <Card className="p-4">Welcome to Navtrack!</Card>
+      <Card className="p-4">Welcome to Keeano Track!</Card>
     </AuthenticatedLayoutTwoColumns>
   );
 }

@@ -3,11 +3,11 @@ export function Copyright() {
     <span>
       © {new Date().getFullYear()}{" "}
       <a
-        href="https://codeagency.com"
+        href="https://keeano.com"
         target="_blank"
         rel="noreferrer"
         title={import.meta.env.VITE_VERSION}>
-        CodeAgency
+        Keeano
       </a>
     </span>
   );
